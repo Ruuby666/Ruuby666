@@ -6,7 +6,7 @@ Soy un apasionado por la tecnología, con experiencia en desarrollo web, móvil 
 
 ---
 
-## 🚀 Technologies & Tools  
+## Technologies & Tools  
 ### 📌 *Programming Languages & Frameworks*  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
